@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">E3 Entretenimento</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detalhe">Detalhes do Evento</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="txt_senha">Senha</string>
+    <string name="txt_login">Login</string>
+    <string name="progress_bar">Carregando</string>
+    <string name="esqueceu_senha">Esqueceu sua senha?</string>
+    <string name="btn_redefinir_senha">Redefinir Senha</string>
+    <string name="txt_email">E-Mail</string>
+    <string name="txt_informativo_esqueceu_senha_">Insira o endereço de e-mail que você usou no cadastro e nós enviaremos um link para redefinir a sua senha.</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_concluir">Concluir</string>
+    <string name="title_registrar_conta">Registrar Conta</string>
+    <string name="txt_tela_splash">E3 Entretenimento</string>
+
+</resources>
